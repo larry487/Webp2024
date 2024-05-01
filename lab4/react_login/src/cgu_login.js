@@ -51,7 +51,7 @@ export default function CGU_Login() {
           sm={4}
           md={7}
           sx={{
-            // backgroundImage: 'url(https://th.bing.com/th/id/OIP.MWuJIYHNO6MTAL3axWiRHgHaLE?rs=1&pid=ImgDetMain)',
+            // backgroundImage: 'url(https://media.gq.com.tw/photos/65b7a5f9f03e6b8b9991c372/master/w_960,c_limit/GettyImages-1447573807.jpg)',
             backgroundImage: `url(${Lighthouse})`,
             backgroundRepeat: 'no-repeat',
             backgroundColor: (t) =>
